@@ -1,0 +1,15 @@
+Package: 
+Section: 
+Maintainer: 
+Architecture: iphoneos-arm
+Version: 
+Depends: none
+Filename: debs//p7zip_4.57-4_darwin-arm.deb.bz2
+Size: 1.5 MB
+MD5sum: b779c60e4b039961d459a114e03539a6
+SHA1: e72d054fe3147d67260f9ca2328bad1365f04f7e
+SHA256: db15593c5b963a0aa0950d36f020e01722d235625dd23eefdecc55bd6bf6fff9
+Description: zip
+Name: pzip
+Author: name <email@email.com>
+
